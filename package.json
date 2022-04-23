@@ -7,7 +7,8 @@
   "author": "23prime <23.prime.37@gmail.com>",
   "license": "MIT",
   "volta": {
-    "node": "16.8.0"
+    "node": "16.8.0",
+    "yarn": "1.22.18"
   },
   "devDependencies": {
     "@types/node": "^17.0.25",
