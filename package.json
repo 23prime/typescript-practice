@@ -1,0 +1,8 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:23prime/typescript-practice.git",
+  "author": "23prime <23.prime.37@gmail.com>",
+  "license": "MIT"
+}
