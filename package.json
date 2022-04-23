@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:23prime/typescript-practice.git",
   "author": "23prime <23.prime.37@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "volta": {
+    "node": "16.8.0"
+  }
 }
